@@ -1,6 +1,6 @@
 # clang-format-config
 
-A copy of my .clang-format configuration file for C.
+A copy of my .clang-format [configuration][1] file for C.
 
 ## Description
 
@@ -28,3 +28,4 @@ int main(int argc, char *argv)
 }
 ```
 
+[1]: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
